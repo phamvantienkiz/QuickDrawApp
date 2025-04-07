@@ -1,0 +1,7 @@
+numpy
+os
+tensorflow
+matplotlib
+cv2
+argparse
+shutil
