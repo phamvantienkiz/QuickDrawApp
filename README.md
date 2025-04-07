@@ -1,5 +1,3 @@
-# QuickDrawApp
-
 ## Introduction
 
 This project consists of two parts:
@@ -24,3 +22,4 @@ The table below lists the 20 categories that my model is trained to recognize:
 - Tensorflow
 - Numpy
 - OpenCV
+- Update
