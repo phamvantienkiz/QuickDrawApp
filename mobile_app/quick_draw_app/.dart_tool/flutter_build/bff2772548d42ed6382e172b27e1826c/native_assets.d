@@ -1,0 +1,1 @@
+ E:\\Quickdraw_app\\quick_draw_app\\.dart_tool\\flutter_build\\bff2772548d42ed6382e172b27e1826c\\native_assets.yaml: 
